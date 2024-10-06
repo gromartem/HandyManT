@@ -6,7 +6,7 @@ import use from '../../img/icons/use.png'
 import ua from '../../img/icons/ukraine.png';
 
 // const ChangeLang = () => {
-//   const { t, i18n } = useTranslation();
+//   const { t, dasdsai18n } = useTranslation();
 
   // Функция для смены языка
 //   const changeLanguage = (lng) => {
